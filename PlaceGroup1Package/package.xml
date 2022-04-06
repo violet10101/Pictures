@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="33yc4zsn">
+  <resources>
+    <image id="hox08o" name="101-2.png" path="/2/" exported="true" scale9grid="0,0,-1657,-2207" duplicatePadding="true"/>
+    <image id="hox08p" name="110-2.png" path="/2/" exported="true" scale9grid="0,0,0,-3534" duplicatePadding="true"/>
+    <image id="hox08q" name="102-2.png" path="/2/" exported="true" scale9grid="0,0,-2526,-3795" duplicatePadding="true"/>
+    <image id="hox08r" name="103-2.png" path="/2/" exported="true" scale9grid="0,0,-2660,-4210" duplicatePadding="true"/>
+    <image id="hox08s" name="104-2.png" path="/2/" exported="true" scale9grid="0,0,-2136,-3852" duplicatePadding="true"/>
+    <image id="hox08t" name="105-2.png" path="/2/" exported="true" scale9grid="0,0,-1752,-3235" duplicatePadding="true"/>
+    <image id="hox08u" name="106-2.png" path="/2/" exported="true" scale9grid="0,0,-2391,-2304" duplicatePadding="true"/>
+    <image id="hox08v" name="107-2.png" path="/2/" exported="true" scale9grid="0,0,-1987,-4112" duplicatePadding="true"/>
+    <image id="hox08w" name="108-2.png" path="/2/" exported="true" scale9grid="0,0,-645,-1427" duplicatePadding="true"/>
+    <image id="hox08x" name="109-2-1.png" path="/2/" exported="true" scale9grid="0,0,-2763,-2259" duplicatePadding="true"/>
+    <image id="hox08y" name="109-2-2.png" path="/2/" exported="true" scale9grid="0,0,-1898,-1458" duplicatePadding="true"/>
+    <image id="hox08z" name="101-3.png" path="/3/" exported="true" scale9grid="0,0,-1657,-2207" duplicatePadding="true"/>
+    <image id="hox090" name="110-3.png" path="/3/" exported="true" scale9grid="0,0,0,-3534" duplicatePadding="true"/>
+    <image id="hox091" name="102-3.png" path="/3/" exported="true" scale9grid="0,0,-2526,-3795" duplicatePadding="true"/>
+    <image id="hox092" name="103-3.png" path="/3/" exported="true" scale9grid="0,0,-2660,-4210" duplicatePadding="true"/>
+    <image id="hox093" name="104-3.png" path="/3/" exported="true" scale9grid="0,0,-2136,-3852" duplicatePadding="true"/>
+    <image id="hox094" name="105-3.png" path="/3/" exported="true" scale9grid="0,0,-1752,-3235" duplicatePadding="true"/>
+    <image id="hox095" name="107-3.png" path="/3/" exported="true" scale9grid="0,0,-1987,-4112" duplicatePadding="true"/>
+    <image id="hox096" name="108-3.png" path="/3/" exported="true" scale9grid="0,0,-645,-1427" duplicatePadding="true"/>
+    <image id="hox097" name="109-3-2.png" path="/3/" exported="true" scale9grid="0,0,-1898,-1458" duplicatePadding="true"/>
+    <image id="hox098" name="109-3-1.png" path="/3/" exported="true" scale9grid="0,0,-2763,-2259" duplicatePadding="true"/>
+    <image id="hox099" name="106-3.png" path="/3/" exported="true" scale9grid="0,0,-2391,-2304" duplicatePadding="true"/>
+    <image id="hox09a" name="101-4.png" path="/4/" exported="true" scale9grid="0,0,-1657,-2207" duplicatePadding="true"/>
+    <image id="hox09b" name="110-4.png" path="/4/" exported="true" scale9grid="0,0,0,-3534" duplicatePadding="true"/>
+    <image id="hox09d" name="103-4.png" path="/4/" exported="true" scale9grid="0,0,-2660,-4210" duplicatePadding="true"/>
+    <image id="hox09e" name="104-4.png" path="/4/" exported="true" scale9grid="0,0,-2136,-3852" duplicatePadding="true"/>
+    <image id="hox09f" name="105-4.png" path="/4/" exported="true" scale9grid="0,0,-1752,-3235" duplicatePadding="true"/>
+    <image id="hox09g" name="106-4.png" path="/4/" exported="true" scale9grid="0,0,-2391,-2304" duplicatePadding="true"/>
+    <image id="hox09h" name="107-4.png" path="/4/" exported="true" scale9grid="0,0,-1987,-4112" duplicatePadding="true"/>
+    <image id="hox09i" name="109-4-2.png" path="/4/" exported="true" scale9grid="0,0,-1898,-1458" duplicatePadding="true"/>
+    <image id="hox09j" name="109-4-1.png" path="/4/" exported="true" scale9grid="0,0,-2763,-2259" duplicatePadding="true"/>
+    <image id="hox09k" name="101-5.png" path="/5/" exported="true" scale9grid="0,0,-829,-1104" duplicatePadding="true"/>
+    <image id="hox09l" name="110-5.png" path="/5/" exported="true" scale9grid="0,0,0,-1767" duplicatePadding="true"/>
+    <image id="hox09m" name="102-5.png" path="/5/" exported="true" scale9grid="0,0,-1265,-1897" duplicatePadding="true"/>
+    <image id="hox09n" name="103-5.png" path="/5/" exported="true" scale9grid="0,0,-1331,-2106" duplicatePadding="true"/>
+    <image id="hox09o" name="104-5.png" path="/5/" exported="true" scale9grid="0,0,-1069,-1926" duplicatePadding="true"/>
+    <image id="hox09p" name="105-5.png" path="/5/" exported="true" scale9grid="0,0,-876,-1618" duplicatePadding="true"/>
+    <image id="hox09q" name="106-5.png" path="/5/" exported="true" scale9grid="0,0,-1196,-1152" duplicatePadding="true"/>
+    <image id="hox09r" name="107-5.png" path="/5/" exported="true" scale9grid="0,0,-993,-2056" duplicatePadding="true"/>
+    <image id="hox09s" name="108-5.png" path="/5/" exported="true" scale9grid="0,0,-337,-714" duplicatePadding="true"/>
+    <image id="hox09t" name="109-5-2.png" path="/5/" exported="true" scale9grid="0,0,-948,-728" duplicatePadding="true"/>
+    <image id="hox09u" name="109-5-1.png" path="/5/" exported="true" scale9grid="0,0,-1382,-1129" duplicatePadding="true"/>
+    <component id="wgdm5c" name="PlaceGroup1.xml" path="/" exported="true"/>
+    <image id="sskfbe" name="102-4.png" path="/4/" exported="true" scale9grid="0,0,-1265,-1897" duplicatePadding="true"/>
+    <image id="sskfbf" name="108-4.png" path="/4/" exported="true" scale9grid="0,0,-308,-713" duplicatePadding="true"/>
+    <image id="jnb5br" name="101-1.png" path="/1/" exported="true" scale9grid="0,0,-828,-1103" duplicatePadding="true"/>
+    <image id="jnb5bs" name="102-1.png" path="/1/" exported="true" scale9grid="0,0,-1261,-1898" duplicatePadding="true"/>
+    <image id="jnb5bt" name="103-1.png" path="/1/" exported="true" scale9grid="0,0,-1329,-2104" duplicatePadding="true"/>
+    <image id="jnb5bu" name="104-1.png" path="/1/" exported="true" scale9grid="0,0,-1067,-1926" duplicatePadding="true"/>
+    <image id="jnb5bv" name="105-1.png" path="/1/" exported="true" scale9grid="0,0,-876,-1617" duplicatePadding="true"/>
+    <image id="jnb5bw" name="106-1.png" path="/1/" exported="true" scale9grid="0,0,-1195,-1152" duplicatePadding="true"/>
+    <image id="jnb5bx" name="107-1.png" path="/1/" exported="true" scale9grid="0,0,-994,-2056" duplicatePadding="true"/>
+    <image id="jnb5by" name="108-1.png" path="/1/" exported="true" scale9grid="0,0,-308,-713" duplicatePadding="true"/>
+    <image id="jnb5bz" name="110-1.png" path="/1/" exported="true" scale9grid="0,0,0,-1767" duplicatePadding="true"/>
+    <image id="jnb5c0" name="109-1-1.png" path="/1/" exported="true" scale9grid="0,0,-1381,-1130" duplicatePadding="true"/>
+    <image id="jnb5c1" name="109-1-2.png" path="/1/" exported="true" scale9grid="0,0,-950,-730" duplicatePadding="true"/>
+    <image id="i8fwc2" name="11.png" path="/" exported="true" duplicatePadding="true"/>
+  </resources>
+  <publish name="" path="{projectPath}\GameRes\UIPackage\placegroup1" packageCount="2" genCode="true"/>
+</packageDescription>

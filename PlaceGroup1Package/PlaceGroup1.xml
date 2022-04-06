@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1480,2340" designImage="ui://xq784z4thox06z">
+  <controller name="operate" pages="0,,1,操作中" selected="0">
+    <action type="play_transition" fromPage="" toPage="1" transition="t0"/>
+    <action type="play_transition" fromPage="1" toPage="0" transition="t1"/>
+  </controller>
+  <displayList>
+    <graph id="n28_jnb5" name="n28" xy="-902,-515" size="3284,3371" type="rect" fillColor="#ff666666">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n8_hox0" name="108" src="hox070" fileName="UI/PlaceUI/PlaceBtn.xml" pkg="xq784z4t" xy="0,0" size="1172,1627">
+      <Button icon="ui://33yc4zsnhox096"/>
+    </component>
+    <component id="n25_hox0" name="110" src="hox070" fileName="UI/PlaceUI/PlaceBtn.xml" pkg="xq784z4t" xy="0,1767" size="1480,573">
+      <Button icon="ui://33yc4zsnhox090"/>
+    </component>
+    <component id="n1_wgdm" name="101" src="hox070" fileName="UI/PlaceUI/PlaceBtn.xml" pkg="xq784z4t" xy="0,728" size="652,1237">
+      <Button icon="ui://33yc4zsnhox08z"/>
+    </component>
+    <component id="n23_hox0" name="109_2" src="hox070" fileName="UI/PlaceUI/PlaceBtn.xml" pkg="xq784z4t" xy="950,0" size="530,1610">
+      <Button icon="ui://33yc4zsnhox097"/>
+    </component>
+    <component id="n9_hox0" name="109_1" src="hox070" fileName="UI/PlaceUI/PlaceBtn.xml" pkg="xq784z4t" xy="1381,83" size="99,1210">
+      <Button icon="ui://33yc4zsnhox098"/>
+    </component>
+    <component id="n6_hox0" name="106" src="hox070" fileName="UI/PlaceUI/PlaceBtn.xml" pkg="xq784z4t" xy="1164,105" size="285,1188">
+      <Button icon="ui://33yc4zsnhox099"/>
+    </component>
+    <component id="n7_hox0" name="107" src="hox070" fileName="UI/PlaceUI/PlaceBtn.xml" pkg="xq784z4t" xy="994,1076" size="486,284">
+      <Button icon="ui://33yc4zsnhox095"/>
+    </component>
+    <component id="n4_hox0" name="104" src="hox070" fileName="UI/PlaceUI/PlaceBtn.xml" pkg="xq784z4t" xy="518,1360" size="413,414">
+      <Button icon="ui://33yc4zsnhox093"/>
+    </component>
+    <component id="n2_wgdm" name="102" src="hox070" fileName="UI/PlaceUI/PlaceBtn.xml" pkg="xq784z4t" xy="517,924" size="219,442">
+      <Button icon="ui://33yc4zsnhox091"/>
+    </component>
+    <component id="n3_wgdm" name="103" src="hox070" fileName="UI/PlaceUI/PlaceBtn.xml" pkg="xq784z4t" xy="724,1130" size="151,236">
+      <Button icon="ui://33yc4zsnhox092"/>
+    </component>
+    <component id="n5_hox0" name="105" src="hox070" fileName="UI/PlaceUI/PlaceBtn.xml" pkg="xq784z4t" xy="876,1510" size="604,723">
+      <Button icon="ui://33yc4zsnhox094"/>
+    </component>
+    <image id="n29_i8fw" name="DAGUANG" src="i8fwc2" fileName="11.png" xy="142,180" size="1338,1749"/>
+    <component id="n10_hox0" name="L102" src="hox073" fileName="UI/PlaceUI/ReplaceLabel.xml" pkg="xq784z4t" xy="551,947"/>
+    <component id="n15_hox0" name="L105" src="hox073" fileName="UI/PlaceUI/ReplaceLabel.xml" pkg="xq784z4t" xy="864,1622"/>
+    <component id="n16_hox0" name="L103" src="hox073" fileName="UI/PlaceUI/ReplaceLabel.xml" pkg="xq784z4t" xy="731,1187"/>
+    <component id="n17_hox0" name="L109" src="hox073" fileName="UI/PlaceUI/ReplaceLabel.xml" pkg="xq784z4t" xy="943,567"/>
+    <component id="n18_hox0" name="L104" src="hox073" fileName="UI/PlaceUI/ReplaceLabel.xml" pkg="xq784z4t" xy="672,1433"/>
+    <component id="n19_hox0" name="L106" src="hox073" fileName="UI/PlaceUI/ReplaceLabel.xml" pkg="xq784z4t" xy="1115,646"/>
+    <component id="n20_hox0" name="L107" src="hox073" fileName="UI/PlaceUI/ReplaceLabel.xml" pkg="xq784z4t" xy="1024,1114"/>
+    <component id="n21_hox0" name="L108" src="hox073" fileName="UI/PlaceUI/ReplaceLabel.xml" pkg="xq784z4t" xy="400,552"/>
+    <component id="n22_hox0" name="L101" src="hox073" fileName="UI/PlaceUI/ReplaceLabel.xml" pkg="xq784z4t" xy="268,1390"/>
+    <component id="n26_hox0" name="L110" src="hox073" fileName="UI/PlaceUI/ReplaceLabel.xml" pkg="xq784z4t" xy="608,1872"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n10_hox0" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n15_hox0" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n16_hox0" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n17_hox0" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n18_hox0" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n19_hox0" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n20_hox0" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n21_hox0" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n22_hox0" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n26_hox0" tween="true" startValue="0" endValue="1" duration="6"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="Alpha" target="n10_hox0" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="0" type="Alpha" target="n15_hox0" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="0" type="Alpha" target="n16_hox0" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="0" type="Alpha" target="n17_hox0" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="0" type="Alpha" target="n18_hox0" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="0" type="Alpha" target="n19_hox0" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="0" type="Alpha" target="n20_hox0" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="0" type="Alpha" target="n21_hox0" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="0" type="Alpha" target="n22_hox0" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="0" type="Alpha" target="n26_hox0" tween="true" startValue="1" endValue="0" duration="6"/>
+  </transition>
+</component>
